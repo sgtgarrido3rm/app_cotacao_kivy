@@ -1,1 +1,1 @@
-"# Aplicativo de cotaá∆o desenvolvido em Python com Kivy" 
+"# Aplicativo de cota√ß√£o desenvolvido em Python com Kivy" 
